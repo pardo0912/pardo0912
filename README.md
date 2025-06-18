@@ -15,10 +15,11 @@ Currently focused on building dashboards, automating workflows, and making data-
 
 ### 🛠️ Tech Stack & Tools
 
-| 💻 Platforms         | 📊 Analytics & Viz       | ⚙️ Automation & Dev Tools     |
-|---------------------|--------------------------|-------------------------------|
-| Power BI, Power Apps| Python (Pandas, Seaborn, Matplotlib), SQL (PostgreSQL, MySQL) | Power Automate, SharePoint |
-| Microsoft 365       | Tableau                  | Git, GitHub                   |
+| 💻 Platforms & Cloud          | 📊 Data Analytics & Visualization                           | ⚙️ Automation & Development           | 🧰 Productivity & Collaboration          | 🎤 Presentations & Reporting     |
+|------------------------------|--------------------------------------------------------------|--------------------------------------|------------------------------------------|----------------------------------|
+| Microsoft 365, SharePoint    | Power BI, Tableau, Excel (Power Query, Pivot Tables, VBA)   | Power Automate, Power Apps, REST APIs| Teams, Outlook, OneDrive, Planner        | PowerPoint, Canva, Sway         |
+| Windows, Web                 | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL) | Git, GitHub, VS Code, JSON            | Word, Loop, Forms, Whiteboard            | Excel Dashboards, Power BI Reports |
+| Azure (básico)               | DAX, M (Power Query Formula Language)                       | Logic Apps (nociones), Bash (básico) | Notion, Trello (uso personal/proyectos) | Loom (grabación y explicación)   |
 
 ---
 
@@ -31,9 +32,6 @@ Currently focused on building dashboards, automating workflows, and making data-
 ---
 
 ### 📌 Highlighted Projects
-
-- 🚕 **Zuber Analytics**  
-  Exploratory analysis on ride-sharing trends and weather impact in Chicago.
 
 - 🎮 **ICE Game Store**  
   Predictive patterns and sales behavior in a gaming e-commerce platform.
