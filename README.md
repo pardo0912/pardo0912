@@ -33,11 +33,6 @@ Currently focused on building dashboards, automating business processes, and dev
 
 ### 📌 Highlighted Projects
 
-- 📊 **Zuber Analytics**  
-  Power BI dashboard for exploring ride-sharing demand and weather impact in Chicago.
-
-- 🎮 **ICE Game Store**  
-  Data analysis to uncover predictive patterns and sales behavior in an e-commerce gaming platform.
 
 - 🚗 **VIN Country Finder App**  
   Power Apps solution that identifies the country of origin of a vehicle based on VIN patterns, integrated with SharePoint.
